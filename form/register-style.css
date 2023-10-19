@@ -1,0 +1,28 @@
+@charset "utf-8";
+.hissu{
+    background-color: red;
+    border-radius: 5px;
+    font-size: 10px;
+    color: white;
+}
+.kakko{
+    color: white;
+    font-size: 8px;
+}
+.title{
+    color: white;
+}
+th{
+    text-align: left;
+    vertical-align: top;
+    background-color: dimgray;
+}
+td{
+    background-color: darkgrey;
+}
+th,td{
+   padding: 20px;  
+}
+button{
+    width: 190px;
+}

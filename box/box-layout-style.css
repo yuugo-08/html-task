@@ -1,0 +1,83 @@
+h1 {
+  font-family: "MS P 明朝", serif;
+  text-align: center;
+}
+
+.item {
+  width: 25%;
+  height: 565px; 
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+h2{
+  width: 90%;
+}
+
+.yo{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.ba{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.ko{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.ne{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.ha{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.ra{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.item img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.box {
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+a {
+  width: 80%; 
+  margin: 10px auto;
+  padding: 10px;
+  background-color: lightcoral;
+  display: block;
+  text-decoration: none;
+  border-radius: 30px;
+}
+
+p {
+  width: 90%;
+}

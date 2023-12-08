@@ -1,0 +1,34 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "utf-8";
+
+.mark-list {
+    list-style: "★";
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9d0a2e2;
+    color: #333;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-size: large;
+}
+p{
+    font: large;
+}
+li{
+    font-size: 22px;
+}

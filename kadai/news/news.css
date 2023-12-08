@@ -1,0 +1,33 @@
+article {
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  font-size: 23px;
+}
+
+h2 {
+  color: #0e5515;
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+  margin: 30px;
+  margin-top: 15px;
+}
+
+p {
+  margin: 20px;
+}
+
+body {
+  background-color: rgb(161, 201, 235);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+div{
+  background-color: #e0e9eb;
+  border-radius: 10px;
+}

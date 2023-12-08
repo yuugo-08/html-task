@@ -1,0 +1,28 @@
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th{
+    background-color: rgb(150, 202, 211);
+}
+.item2{
+    float: right;
+    margin-left: 200px;
+}
+.box {
+    margin: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: left;
+  }
+  body{
+    background-color: aliceblue;
+  }
